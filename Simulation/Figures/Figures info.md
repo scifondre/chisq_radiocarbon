@@ -1,4 +1,4 @@
-The full graphic outputs of the simulation consists in:
+The full graphic outputs of the simulation consists in:<br>
 -- Chi-Squared plots per simulation type (9 types) per century (19 centuries) per iterations of the simulation (40 itertations), 
    for a total of 6840 plots;
 -- Another 6840 plots representing each simulated dataset together with the overlapping portion of IntCal20;
