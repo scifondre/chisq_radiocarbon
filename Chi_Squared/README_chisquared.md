@@ -1,1 +1,1 @@
-This Jupyter Notebook consists in the code for performing the Chi-Squared based calibration of sequences of radiocarbon dates, as present in the simulation, but adjusted to be used as stadalone code outside of the simualtion
+This Jupyter Notebook consists in the code for performing the Chi-Squared based calibration of sequences of radiocarbon dates, as present in the simulation, but adjusted to be used as stadalone code outside of the simualtion.
